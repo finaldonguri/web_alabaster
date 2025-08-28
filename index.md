@@ -127,8 +127,8 @@ title: 霊仙山テント泊登山
 - 写真・動画撮影は自由に行う。
 
 ### その他
-- [滋賀県熊出没マップ](https://www.google.com/maps/d/u/0/viewer?mid=1rE5HcSdJnm2gX3iT1FMt0aCVuQ9ArDs&ll=34.98091430000003%2C135.98476090000003&z=12)
-- [クマ出没情報ブログ(滋賀県)](http://sukeroku.blog55.fc2.com/blog-category-52-1.html)
+- [米原市役所・クマ目撃情報](https://www.city.maibara.lg.jp/mtibuki/about_tozan/attention/20571.html)
+- [クマ出没情報ブログ(滋賀県)](http://sukeroku.blog55.fc2.com/blog-category-52.html)
 
 ---
 ## 報告書
