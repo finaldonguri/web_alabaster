@@ -114,10 +114,11 @@ title: 霊仙山テント泊登山
 - [ ] スマホ（[Geographica](https://geographica.biz/)をインストールし、山域地図の事前キャッシュを推奨）
 - [ ] モバイルバッテリ＋ケーブル
 - [ ] 食糧・行動食（内容は**食糧計画**参照）
-- [ ] MSR・燃料タンク（小）
+- [ ] [MSR whisperlite int'l](https://e-mot.co.jp/product/36633/ )
+- [ ] [燃料タンク（20oz）](https://e-mot.co.jp/product/36831/ )
 - [ ] メスティン（小）
 - [ ] クッカー
-- [ ] ナイフ
+- [ ] [ナイフ](https://www.gsakai.co.jp/jpnshop/html/products/detail.php?product_id=1020 )
 - [ ] 印刷した1/25,000 地形図
 - [ ] [コンパス](https://www.yodobashi.com/product/100000001001857090/)
 - [ ] ファーストエイドボックス（内容は**医療計画**参照）
